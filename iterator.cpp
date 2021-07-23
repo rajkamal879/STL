@@ -6,16 +6,16 @@
 4. Bidirectional Iterator
 5. Random Access Iterator
 
-// **************************************************
+// ****************************************************************************
 container						iterator
--------------------------------------------------
-1. vector           			random access
+-------------------------------------------------------------------------------
+1. vector           					random access
 2. deque						random access
 3. list							bidirectional access
-4. map/multimap/set/multiset 	bidirectional access
-5. stack/queue					No iterator
+4. map/multimap/set/multiset 				bidirectional access
+5. stack/queue						No iterator
 */
-//***************************************************
+//*****************************************************************************
 #include<bits/stdc++.h>
 using namespace std;
 #include<vector>
